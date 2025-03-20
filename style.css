@@ -1,0 +1,22 @@
+body{
+     background-color: rgb(86, 200, 253);
+}
+h1 {
+
+    text-align: center;
+}
+ p{
+    text-align: center;
+ }
+
+ b{
+    color: rgb(0, 153, 255);
+ }
+
+ main { 
+    background-color: rgb(218, 63, 63);
+ }
+
+ #banner { 
+    width: 60%;
+ }
